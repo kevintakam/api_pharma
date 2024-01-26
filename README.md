@@ -1,0 +1,3 @@
+- Pour cette application il important d'intaller une ORM RedBEAN.PHP
+- Intsaller des IDE de votre choix
+- Installer Postman afin de tester vos reqûetes API
